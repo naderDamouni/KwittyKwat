@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KwittyKwat</string>
+    <string name="settings_button">Settings</string>
+    <string name="details_button">Details</string>
+    <string name="back_button">Back</string>
 </resources>

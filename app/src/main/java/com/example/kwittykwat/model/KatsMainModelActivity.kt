@@ -1,6 +1,6 @@
 package com.example.kwittykwat.model
 
-data class Kats(
+data class KatsMainModelActivity(
     val id: String,
     val url: String,
     val width: Int,
