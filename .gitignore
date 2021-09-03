@@ -14,6 +14,7 @@
 .cxx
 local.properties
 settings.gradle
+settings.gradle
 gradlew.bat
 gradlew
 gradle.properties
